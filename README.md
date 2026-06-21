@@ -2,13 +2,13 @@
 
 Community Slack and terminal themes inspired by [zelta.space](https://zelta.space) - perfect backups, powered by ZFS.
 
-Free theme pack inspired by [Zelta](https://zelta.space), the open-source ZFS backup suite by [Bell Tower](https://github.com/bell-tower/zelta). Not affiliated with Bell Tower.
+Free theme pack inspired by [Zelta](https://zelta.space), the open-source ZFS backup suite by [Bell Tower](https://github.com/bell-tower/zelta). Not affiliated with Bell Tower
 
 ---
 
 ## Slack Themes
 
-Go to **Preferences > Themes > Custom theme > Import** and paste a string.
+Go to **Preferences > Themes > Custom theme > Import** and paste a string
 
 | Theme | Vibe | String |
 |-------|------|--------|
