@@ -126,7 +126,7 @@ Show the Zelta logo in gold every time your terminal opens. Works with any termi
 
 ## Contributing
 
-Found a terminal we missed? Open an issue or PR - all contributions welcome.
+Found a terminal we missed? Open an issue or PR - all contributions welcome
 
 ---
 
