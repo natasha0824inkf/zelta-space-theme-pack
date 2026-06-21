@@ -8,13 +8,13 @@
 
 ## About
 
-A free, community-made theme pack for Slack and terminal emulators, inspired by the aesthetic of [Zelta](https://zelta.space) — the open-source backup and recovery suite by [Bell Tower](https://github.com/bell-tower/zelta).
+A free, community-made theme pack for Slack and terminal emulators, inspired by the aesthetic of [Zelta](https://zelta.space) - - the open-source backup and recovery suite by [Bell Tower](https://github.com/bell-tower/zelta).
 
 Zelta is free software that brings business-class data protection to everyone, powered by ZFS. This theme is a small appreciation for that work — so your Slack sidebar and terminal can carry the same dark, cosmic energy as the tool you trust with your data.
 
 > *"Perfect backups, powered by ZFS."* — [zelta.space](https://zelta.space)
 
-Not officially affiliated with Bell Tower. Logo and branding belong to [Bell Tower / Zelta](https://github.com/bell-tower/zelta).
+Logo and branding belong to [Bell Tower / Zelta](https://github.com/bell-tower/zelta).
 
 ---
 
