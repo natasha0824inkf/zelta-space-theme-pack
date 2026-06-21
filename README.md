@@ -116,4 +116,4 @@ Found a terminal we missed? Open an issue or PR — all contributions welcome.
 
 ---
 
-*Free software by [Bell Tower](https://github.com/bell-tower/zelta) · Theme pack by the community*
+*Free software by [Bell Tower](https://github.com/bell-tower/zelta) · Theme pack - appreciation by the community*
