@@ -117,4 +117,4 @@ Found a terminal we missed? Open an issue or PR — all contributions welcome.
 
 ---
 
-*Free software by [Bell Tower](https://zelta.space) · Theme pack by the community*
+*Free software by [Bell Tower](https://zelta.space) · Theme pack by the community* Logo and branding belong to Bell Tower / Zelta.
