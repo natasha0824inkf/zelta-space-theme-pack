@@ -1,6 +1,8 @@
-A custom theme inspired by [zelta.space](https://zelta.space) — perfect backups, powered by ZFS, made by Belltower.it, belltower/zelta
+A custom theme inspired by [zelta.space](https://zelta.space) — 
+perfect backups, powered by ZFS, made by 
+[Bell Tower](https://belltower.it) · [GitHub](https://github.com/bell-tower/zelta).
 
-<img src="zelta-logo.jpeg" alt="Zelta Logo" width="400"/>
+<img src="zelta-banner.svg" alt="Zelta" width="400"/>
 
 ---
 
