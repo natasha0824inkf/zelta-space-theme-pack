@@ -1,26 +1,14 @@
 # Zelta Theme Pack
 
-> Community Slack and terminal themes inspired by [zelta.space](https://zelta.space) — perfect backups, powered by ZFS
+Community Slack and terminal themes inspired by [zelta.space](https://zelta.space) - perfect backups, powered by ZFS.
 
-![Zelta banner](zelta-banner.svg)
-
-![Theme swatches 1-10](zeltapalette.svg)
-
-![Theme swatches 11-14](zeltapalette2.svg)
-
----
-
-## About
-
-Free theme pack for Slack and terminal emulators, inspired by [Zelta](https://zelta.space) — the open-source ZFS backup suite by [Bell Tower](https://github.com/bell-tower/zelta).
-
-Not affiliated with Bell Tower. Logo belongs to [Bell Tower / Zelta](https://github.com/bell-tower/zelta).
+Free theme pack inspired by [Zelta](https://zelta.space), the open-source ZFS backup suite by [Bell Tower](https://github.com/bell-tower/zelta). Not affiliated with Bell Tower.
 
 ---
 
 ## Slack Themes
 
-Go to **Preferences > Themes > Custom theme > Import** and paste a string below.
+Go to **Preferences > Themes > Custom theme > Import** and paste a string.
 
 | Theme | Vibe | String |
 |-------|------|--------|
@@ -44,7 +32,7 @@ Go to **Preferences > Themes > Custom theme > Import** and paste a string below.
 ## Terminal Themes
 
 | Terminal | Platform | File |
-|----------|----------|------|
+|----------|----------|----- |
 | iTerm2 | Mac | [iterm2-zelta.itermcolors](terminal/iterm2-zelta.itermcolors) |
 | GNOME Terminal | Linux | [gnome-terminal-zelta.sh](terminal/gnome-terminal-zelta.sh) |
 | xterm | Linux | [xterm-zelta.Xresources](terminal/xterm-zelta.Xresources) |
@@ -54,4 +42,4 @@ Go to **Preferences > Themes > Custom theme > Import** and paste a string below.
 
 ---
 
-*Free software by [Bell Tower](https://github.com/bell-tower/zelta) — theme pack by the community*
+*Free software by [Bell Tower](https://github.com/bell-tower/zelta) - Theme pack by the community*
