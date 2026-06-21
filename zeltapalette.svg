@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520">
+  <!-- Background -->
+  <rect width="800" height="520" fill="#1C2535"/>
+
+  <!-- Title -->
+  <text x="40" y="46" font-family="Georgia, 'Times New Roman', serif" font-size="22" letter-spacing="3" fill="#F5C400">ZELTA SLACK THEME PACK</text>
+  <line x1="40" y1="58" x2="760" y2="58" stroke="#243044" stroke-width="1.5"/>
+
+  <!-- Helper: each theme card = 175w x 90h, 2 cols of 7 -->
+  <!-- Col 1: x=40, Col 2: x=420 -->
+  <!-- Row spacing: 90 + 12 = 102, starting y=76 -->
+
+  <!-- === THEME 1: Classic === -->
+  <g transform="translate(40, 76)">
+    <rect width="350" height="84" rx="6" fill="#1C2535"/>
+    <rect width="6" height="84" rx="3" fill="#C9A227"/>
+    <rect x="6" y="0" width="56" height="84" fill="#243044"/>
+    <rect x="20" y="18" width="28" height="48" rx="3" fill="#C9A227" opacity="0.9"/>
+    <text x="78" y="28" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#E8EDF5">Zelta Classic</text>
+    <text x="78" y="46" font-family="'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#E8EDF5" opacity="0.6">Muted brass gold</text>
+    <circle cx="78"  cy="68" r="7" fill="#1C2535"/>
+    <circle cx="98"  cy="68" r="7" fill="#243044"/>
+    <circle cx="118" cy="68" r="7" fill="#C9A227"/>
+    <circle cx="138" cy="68" r="7" fill="#E8EDF5"/>
+    <circle cx="158" cy="68" r="7" fill="#F5C400"/>
+  </g>
+
+  <!-- === THEME 2: Gold === -->
+  <g transform="translate(40, 172)">
+    <rect width="350" height="84" rx="6" fill="#1C2535"/>
+    <rect width="6" height="84" rx="3" fill="#F5C400"/>
+    <rect x="6" y="0" width="56" height="84" fill="#243044"/>
+    <rect x="20" y="18" width="28" height="48" rx="3" fill="#F5C400" opacity="0.9"/>
+    <text x="78" y="28" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#E8EDF5">Zelta Gold ⭐</text>
+    <text x="78" y="46" font-family="'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#E8EDF5" opacity="0.6">Bright logo gold - Recommended</text>
+    <circle cx="78"  cy="68" r="7" fill="#1C2535"/>
+    <circle cx="98"  cy="68" r="7" fill="#243044"/>
+    <circle cx="118" cy="68" r="7" fill="#F5C400"/>
+    <circle cx="138" cy="68" r="7" fill="#E8EDF5"/>
+    <circle cx="158" cy="68" r="7" fill="#F5C400"/>
+  </g>
+
+  <!-- === THEME 3: Intense === -->
+  <g transform="translate(40, 268)">
+    <rect width="350" height="84" rx="6" fill="#1A1F2E"/>
+    <rect width="6" height="84" rx="3" fill="#F5C400"/>
+    <rect x="6" y="0" width="56" height="84" fill="#252D3D"/>
+    <rect x="20" y="18" width="28" height="48" rx="3" fill="#F5C400" opacity="0.9"/>
+    <text x="78" y="28" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#F5C400">Zelta Intense</text>
+    <text x="78" y="46" font-family="'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#F5C400" opacity="0.6">Max gold, deep black</text>
+    <circle cx="78"  cy="68" r="7" fill="#1A1F2E"/>
+    <circle cx="98"  cy="68" r="7" fill="#252D3D"/>
+    <circle cx="118" cy="68" r="7" fill="#F5C400"/>
+    <circle cx="138" cy="68" r="7" fill="#2A3040"/>
+    <circle cx="158" cy="68" r="7" fill="#F5C400"/>
+  </g>
+
+  <!-- === THEME 4: Retro Terminal === -->
+  <g transform="translate(40, 364)">
+    <rect width="350" height="84" rx="6" fill="#0A0A0A"/>
+    <rect width="6" height="84" rx="3" fill="#00FF41"/>
+    <rect x="6" y="0" width="56" height="84" fill="#0F1F0F"/>
+    <rect x="20" y="18" width="28" height="48" rx="3" fill="#00FF41" opacity="0.9"/>
+    <text x="78" y="28" font-family="'Courier New', monospace" font-size="12" font-weight="600" fill="#00FF41">Zelta Retro Terminal</text>
+    <text x="78" y="46" font-family="'Courier New', monospace" font-size="10" fill="#00FF41" opacity="0.6">Phosphor green CRT</text>
+    <circle cx="78"  cy="68" r="7" fill="#0A0A0A"/>
+    <circle cx="98"  cy="68" r="7" fill="#0F1F0F"/>
+    <circle cx="118" cy="68" r="7" fill="#00FF41"/>
+    <circle cx="138" cy="68" r="7" fill="#00FF41"/>
+    <circle cx="158" cy="68" r="7" fill="#F5C400"/>
+  </g>
+
+  <!-- === THEME 5: Color Blind Safe === -->
+  <g transform="translate(40, 460)">
+    <rect width="350" height="84" rx="6" fill="#1C2535"/>
+    <rect width="6" height="84" rx="3" fill="#56B4E9"/>
+    <rect x="6" y="0" width="56" height="84" fill="#243044"/>
+    <rect x="20" y="18" width="28" height="48" rx="3" fill="#56B4E9" opacity="0.9"/>
+    <text x="78" y="28" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">Zelta Color Blind Safe</text>
+    <text x="78" y="46" font-family="'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#FFFFFF" opacity="0.6">Blue and orange accessible</text>
+    <circle cx="78"  cy="68" r="7" fill="#1C2535"/>
+    <circle cx="98"  cy="68" r="7" fill="#243044"/>
+    <circle cx="118" cy="68" r="7" fill="#56B4E9"/>
+    <circle cx="138" cy="68" r="7" fill="#E69F00"/>
+    <circle cx="158" cy="68" r="7" fill="#F5C400"/>
+  </g>
+
+  <!-- === THEME 6: Rust (col 2) === -->
+  <g transform="translate(420, 76)">
+    <rect width="350" height="84" rx="6" fill="#1C1008"/>
+    <rect width="6" height="84" rx="3" fill="#F5C400"/>
+    <rect x="6" y="0" width="56" height="84" fill="#2E1A0A"/>
+    <rect x="20" y="18" width="28" height="48" rx="3" fill="#F5C400" opacity="0.9"/>
+    <text x="78" y="28" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#E8C99A">Zelta Rust</text>
+    <text x="78" y="46" font-family="'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#E8C99A" opacity="0.6">Warm rust and Zelta gold</text>
+    <circle cx="78"  cy="68" r="7" fill="#1C1008"/>
+    <circle cx="98"  cy="68" r="7" fill="#2E1A0A"/>
+    <circle cx="118" cy="68" r="7" fill="#F5C400"/>
+    <circle cx="138" cy="68" r="7" fill="#E8C99A"/>
+    <circle cx="158" cy="68" r="7" fill="#F5C400"/>
+  </g>
+
+  <!-- === THEME 7: Light === -->
+  <g transform="translate(420, 172)">
+    <rect width="350" height="84" rx="6" fill="#F8F8F8"/>
+    <rect width="6" height="84" rx="3" fill="#F5C400"/>
+    <rect x="6" y="0" width="56" height="84" fill="#EEEEEE"/>
+    <rect x="20" y="18" width="28" height="48" rx="3" fill="#F5C400" opacity="0.9"/>
+    <text x="78" y="28" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#1C2535">Zelta Light</text>
+    <text x="78" y="46" font-family="'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#1C2535" opacity="0.6">Clean white, gold accents</text>
+    <circle cx="78"  cy="68" r="7" fill="#F8F8F8" stroke="#ddd" stroke-width="1"/>
+    <circle cx="98"  cy="68" r="7" fill="#EEEEEE" stroke="#ddd" stroke-width="1"/>
+    <circle cx="118" cy="68" r="7" fill="#F5C400"/>
+    <circle cx="138" cy="68" r="7" fill="#1C2535"/>
+    <circle cx="158" cy="68" r="7" fill="#F5C400"/>
+  </g>
+
+  <!-- === THEME 8: GitHub === -->
+  <g transform="translate(420, 268)">
+    <rect width="350" height="84" rx="6" fill="#391787"/>
+    <rect width="6" height="84" rx="3" fill="#F5C400"/>
+    <rect x="6" y="0" width="56" height="84" fill="#1C2535"/>
+    <rect x="20" y="18" width="28" height="48" rx="3" fill="#F5C400" opacity="0.9"/>
+    <text x="78" y="28" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#E8EDF5">Zelta GitHub</text>
+    <text x="78" y="46" font-family="'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#E8EDF5" opacity="0.6">Purple bg, Zelta gold</text>
+    <circle cx="78"  cy="68" r="7" fill="#391787"/>
+    <circle cx="98"  cy="68" r="7" fill="#1C2535"/>
+    <circle cx="118" cy="68" r="7" fill="#F5C400"/>
+    <circle cx="138" cy="68" r="7" fill="#243044"/>
+    <circle cx="158" cy="68" r="7" fill="#F5C400"/>
+  </g>
+
+  <!-- === THEME 9: PHP === -->
+  <g transform="translate(420, 364)">
+    <rect width="350" height="84" rx="6" fill="#4F5B93"/>
+    <rect width="6" height="84" rx="3" fill="#F5C400"/>
+    <rect x="6" y="0" width="56" height="84" fill="#3D4777"/>
+    <rect x="20" y="18" width="28" height="48" rx="3" fill="#F5C400" opacity="0.9"/>
+    <text x="78" y="28" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#E8EDF5">Zelta PHP</text>
+    <text x="78" y="46" font-family="'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#E8EDF5" opacity="0.6">PHP purple, Zelta gold</text>
+    <circle cx="78"  cy="68" r="7" fill="#4F5B93"/>
+    <circle cx="98"  cy="68" r="7" fill="#3D4777"/>
+    <circle cx="118" cy="68" r="7" fill="#F5C400"/>
+    <circle cx="138" cy="68" r="7" fill="#E8EDF5"/>
+    <circle cx="158" cy="68" r="7" fill="#F5C400"/>
+  </g>
+
+  <!-- === THEME 10: Python === -->
+  <g transform="translate(420, 460)">
+    <rect width="350" height="84" rx="6" fill="#306998"/>
+    <rect width="6" height="84" rx="3" fill="#F5C400"/>
+    <rect x="6" y="0" width="56" height="84" fill="#1E4D78"/>
+    <rect x="20" y="18" width="28" height="48" rx="3" fill="#F5C400" opacity="0.9"/>
+    <text x="78" y="28" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#E8EDF5">Zelta Python</text>
+    <text x="78" y="46" font-family="'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#E8EDF5" opacity="0.6">Python blue, Zelta gold</text>
+    <circle cx="78"  cy="68" r="7" fill="#306998"/>
+    <circle cx="98"  cy="68" r="7" fill="#1E4D78"/>
+    <circle cx="118" cy="68" r="7" fill="#F5C400"/>
+    <circle cx="138" cy="68" r="7" fill="#E8EDF5"/>
+    <circle cx="158" cy="68" r="7" fill="#F5C400"/>
+  </g>
+</svg>

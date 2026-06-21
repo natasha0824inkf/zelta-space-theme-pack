@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <!-- Background -->
+  <rect width="800" height="200" fill="#1C2535"/>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="4" height="200" fill="#F5C400"/>
+
+  <!-- Logo mark: square with hourglass/triangle symbol -->
+  <g transform="translate(60, 60)">
+    <!-- Outer square with rounded corners -->
+    <rect x="0" y="0" width="80" height="80" rx="8" ry="8" fill="none" stroke="#F5C400" stroke-width="3"/>
+    <!-- Upper triangle (pointing down) -->
+    <polygon points="40,18 66,54 14,54" fill="#F5C400"/>
+    <!-- Lower triangle (pointing up) -->
+    <polygon points="40,62 14,26 66,26" fill="#1C2535"/>
+    <!-- Center diamond -->
+    <polygon points="40,32 52,40 40,48 28,40" fill="#F5C400"/>
+  </g>
+
+  <!-- Wordmark: zelta -->
+  <text x="162" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="400" letter-spacing="4" fill="#F5C400">zelta</text>
+
+  <!-- Divider line -->
+  <line x1="162" y1="122" x2="520" y2="122" stroke="#243044" stroke-width="1.5"/>
+
+  <!-- Tagline -->
+  <text x="163" y="148" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14" letter-spacing="1" fill="#E8EDF5">Perfect backups, powered by ZFS</text>
+
+  <!-- Right side: theme color dots -->
+  <g transform="translate(590, 40)">
+    <text x="0" y="0" font-family="'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#E8EDF5" letter-spacing="1" opacity="0.6">THEME PACK</text>
+    <!-- Row 1 -->
+    <circle cx="8"   cy="22" r="7" fill="#1C2535"/>
+    <circle cx="26"  cy="22" r="7" fill="#F5C400"/>
+    <circle cx="44"  cy="22" r="7" fill="#120E1E"/>
+    <circle cx="62"  cy="22" r="7" fill="#2D1B69"/>
+    <circle cx="80"  cy="22" r="7" fill="#0A0A0A"/>
+    <circle cx="98"  cy="22" r="7" fill="#2E3440"/>
+    <circle cx="116" cy="22" r="7" fill="#391787"/>
+    <!-- Row 2 -->
+    <circle cx="8"   cy="44" r="7" fill="#4F5B93"/>
+    <circle cx="26"  cy="44" r="7" fill="#306998"/>
+    <circle cx="44"  cy="44" r="7" fill="#1C1008"/>
+    <circle cx="62"  cy="44" r="7" fill="#F8F8F8"/>
+    <circle cx="80"  cy="44" r="7" fill="#1A1F2E"/>
+    <circle cx="98"  cy="44" r="7" fill="#000000"/>
+    <circle cx="116" cy="44" r="7" fill="#00FF41"/>
+    <!-- Gold ring highlight -->
+    <circle cx="26" cy="22" r="7" fill="none" stroke="#F5C400" stroke-width="1.5" opacity="0.5"/>
+  </g>
+
+  <!-- Bottom bar -->
+  <rect x="0" y="192" width="800" height="8" fill="#243044"/>
+</svg>
