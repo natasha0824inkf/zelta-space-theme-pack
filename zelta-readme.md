@@ -8,7 +8,7 @@ Free theme pack inspired by [Zelta](https://zelta.space), the open-source ZFS ba
 
 ## Slack Themes
 
-Go to **Preferences > Themes > Custom theme > Import** and paste a string.
+Go to **Preferences > Themes > Custom theme > Import** and paste a string
 
 | Theme | Vibe | String |
 |-------|------|--------|
