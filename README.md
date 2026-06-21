@@ -14,7 +14,7 @@ Zelta is free software that brings business-class data protection to everyone, p
 
 > *"Perfect backups, powered by ZFS."* - [zelta.space](https://zelta.space)
 
-Not officially affiliated with Bell Tower. Logo and branding belong to [Bell Tower / Zelta](https://github.com/bell-tower/zelta).
+Logo and branding belong to [Bell Tower / Zelta](https://github.com/bell-tower/zelta).
 
 ---
 
