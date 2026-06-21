@@ -15,7 +15,7 @@ Go to **Preferences > Themes > Custom theme > Import** and paste a string
 | Zelta Classic | Muted brass gold | `#1C2535,#243044,#C9A227,#1C2535,#243044,#E8EDF5,#C9A227,#F5C400` |
 | Zelta Gold | Bright logo gold | `#1C2535,#243044,#F5C400,#1C2535,#243044,#E8EDF5,#F5C400,#F5C400` |
 | Zelta Intense | Max gold, deep black | `#1A1F2E,#252D3D,#F5C400,#1A1F2E,#2A3040,#F5C400,#F5C400,#F5C400` |
-| Zelta Retro Terminal | Phosphor green CRT | `#F5C400,#D4A017,#0D3B0D,#F5C400,#1A5A1A,#0D3B0D,#33AA00,#1C2535` |
+| Zelta Retro Terminal | Phosphor green CRT | `#F5C400,#D4A017,#0D3B0D,#F5C400,#1A5A1A,#1C2535,#33AA00,#8B6914` |
 | Zelta Color Blind Safe | Blue and orange | `#1C2535,#243044,#56B4E9,#1C2535,#243044,#FFFFFF,#E69F00,#F5C400` |
 | Zelta Rust | Warm rust, Zelta gold | `#1C1008,#2E1A0A,#F5C400,#1C1008,#2E1A0A,#E8C99A,#F5C400,#F5C400` |
 | Zelta Light | White with gold accents | `#F8F8F8,#EEEEEE,#F5C400,#1C2535,#E4E4E4,#1C2535,#F5C400,#F5C400` |
