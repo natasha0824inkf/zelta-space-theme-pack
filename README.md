@@ -69,6 +69,7 @@ Show the Zelta logo in gold on every terminal open:
 1. Save [terminal/zelta-banner.sh](terminal/zelta-banner.sh) as `~/zelta-banner.sh`
 2. Add to `~/.zshrc` (Mac) or `~/.bashrc` (Linux):
 ```bash
+
 source ~/zelta-banner.sh
 
 ---
