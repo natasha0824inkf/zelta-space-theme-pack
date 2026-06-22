@@ -46,7 +46,7 @@ Go to **Preferences > Themes > Custom theme > Import** and paste a string
 
 ---
 
-##Install
+## Install
 
 **iTerm2:** Preferences → Profiles → Colors → Color Presets → Import → choose `iterm2-zelta.itermcolors`
 
