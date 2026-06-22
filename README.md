@@ -45,6 +45,30 @@ Go to **Preferences > Themes > Custom theme > Import** and paste a string.
 | Kitty | Mac / Linux | [kittyzelta.conf](kittyzelta.conf) |
 | Windows Terminal | Windows | [windowsterminalzelta.json](windowsterminalzelta.json) |
 
+### Install
+
+**iTerm2:** Preferences → Profiles → Colors → Color Presets → Import → choose `iterm2zelta.itermcolors`
+
+**GNOME Terminal:** Run `bash gnometerminalzelta.sh` (requires `dconf`)
+
+**xterm:** Run `xrdb -merge xtermzelta.Xresources` then restart
+
+**Alacritty:** Paste `alacrittyzelta.toml` contents into `~/.config/alacritty/alacritty.toml`
+
+**Kitty:** Paste `kittyzelta.conf` contents into `~/.config/kitty/kitty.conf`, reload with `Ctrl+Shift+F5`
+
+**Windows Terminal:** Settings → Open JSON → paste `windowsterminalzelta.json` into the `schemes` array → set color scheme to Zelta
+
+### Logo banner (optional)
+
+Show the Zelta logo in gold on every terminal open:
+
+1. Save [zelta-banner.sh](zelta-banner.sh) as `~/zelta-banner.sh`
+2. Add to `~/.zshrc` (Mac) or `~/.bashrc` (Linux):
+```bash
+source ~/zelta-banner.sh
+```
+
 ---
 
 *Free software by [Bell Tower](https://github.com/bell-tower/zelta) - Theme pack by the community*
