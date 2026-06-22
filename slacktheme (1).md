@@ -1,6 +1,6 @@
 # Zelta Slack Theme Pack
 
-> 14 themes - from dark cosmic to groovy 70s. All inspired by [Zelta](https://zelta.space).
+> 20 themes - from dark cosmic to groovy 70s, plus autumn earth and industrial gold. All inspired by [Zelta](https://zelta.space).
 
 <img src="zelta-banner.svg" alt="Zelta" width="400"/>
 
@@ -24,6 +24,11 @@
 | 12 | Zelta Nord | Arctic blue, Zelta gold | `#2E3440,#3B4252,#F5C400,#2E3440,#3B4252,#D8DEE9,#F5C400,#F5C400` |
 | 13 | Zelta Groovy | 70s purple, gold & hot pink | `#2D1B69,#3D2580,#F5C400,#FFFFFF,#3D2580,#F7C59F,#F5C400,#FF1493` |
 | 14 | Zelta Cosmic | Deep space purple + gold | `#120E1E,#1E1535,#F5C400,#FFFFFF,#2A1F4A,#D4C8F0,#F5C400,#F5C400` |
+| 15 | Autumn Harvest | Calm desaturated dark bronze & wheat-gold | `#2B261F,#363027,#D1B280,#E3C89D,#423A30,#EFECE6,#D1B280,#E3C89D` |
+| 16 | Earth & Ore | Muted sand gold with calming sage green | `#1E221B,#292E24,#C5A059,#8FBC8F,#353C2F,#F4EAD4,#C5A059,#8FBC8F` |
+| 17 | The Linux Kernel | Slate grey-blue with industrial gold & sharp red | `#1E222B,#282C34,#FFC107,#FF4A5A,#21252B,#ABB2BF,#FFC107,#FF4A5A` |
+| 18 | Gold Overlord | Aggressive gold sidebar, dark text, electric blue badge | `#FFCC00,#111111,#FFCC00,#E6B800,#111111,#000000,#00FFFF,#111111` |
+| 19 | Monochrome Ore | Industrial dark grey with stark white badges | `#FFCC00,#24292E,#FFCC00,#D4A373,#24292E,#000000,#FFFFFF,#000000` |
 
 ---
 
@@ -175,6 +180,56 @@ Or download the matching `.txt` file from the [`slack-themes/`](slack-themes/) f
 > Deep space indigo, Zelta gold. Like the void between stars.
 ```
 #120E1E,#1E1535,#F5C400,#FFFFFF,#2A1F4A,#D4C8F0,#F5C400,#F5C400
+```
+
+---
+
+### 15. Autumn Harvest
+<img src="https://readme-swatches.vercel.app/2B261F?style=circle"/> <img src="https://readme-swatches.vercel.app/363027?style=circle"/> <img src="https://readme-swatches.vercel.app/D1B280?style=circle"/> <img src="https://readme-swatches.vercel.app/E3C89D?style=circle"/>
+
+> Warm, desaturated bronze and wheat-gold. Cozy and earthy.
+```
+#2B261F,#363027,#D1B280,#E3C89D,#423A30,#EFECE6,#D1B280,#E3C89D
+```
+
+---
+
+### 16. Earth & Ore
+<img src="https://readme-swatches.vercel.app/1E221B?style=circle"/> <img src="https://readme-swatches.vercel.app/292E24?style=circle"/> <img src="https://readme-swatches.vercel.app/C5A059?style=circle"/> <img src="https://readme-swatches.vercel.app/8FBC8F?style=circle"/>
+
+> Muted sand gold balanced by calming sage green. Grounded and natural.
+```
+#1E221B,#292E24,#C5A059,#8FBC8F,#353C2F,#F4EAD4,#C5A059,#8FBC8F
+```
+
+---
+
+### 17. The Linux Kernel
+<img src="https://readme-swatches.vercel.app/1E222B?style=circle"/> <img src="https://readme-swatches.vercel.app/282C34?style=circle"/> <img src="https://readme-swatches.vercel.app/FFC107?style=circle"/> <img src="https://readme-swatches.vercel.app/FF4A5A?style=circle"/>
+
+> Slate grey-blue background with industrial gold and sharp red. Developer-focused.
+```
+#1E222B,#282C34,#FFC107,#FF4A5A,#21252B,#ABB2BF,#FFC107,#FF4A5A
+```
+
+---
+
+### 18. Gold Overlord
+<img src="https://readme-swatches.vercel.app/FFCC00?style=circle"/> <img src="https://readme-swatches.vercel.app/111111?style=circle"/> <img src="https://readme-swatches.vercel.app/E6B800?style=circle"/> <img src="https://readme-swatches.vercel.app/00FFFF?style=circle"/>
+
+> Aggressive gold sidebar, dark charcoal text, electric blue badge. Command attention.
+```
+#FFCC00,#111111,#FFCC00,#E6B800,#111111,#000000,#00FFFF,#111111
+```
+
+---
+
+### 19. Monochrome Ore
+<img src="https://readme-swatches.vercel.app/FFCC00?style=circle"/> <img src="https://readme-swatches.vercel.app/24292E?style=circle"/> <img src="https://readme-swatches.vercel.app/D4A373?style=circle"/> <img src="https://readme-swatches.vercel.app/FFFFFF?style=circle"/>
+
+> Industrial minimalist design. Gold accents on dark grey with stark white badges.
+```
+#FFCC00,#24292E,#FFCC00,#D4A373,#24292E,#000000,#FFFFFF,#000000
 ```
 
 ---
