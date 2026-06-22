@@ -26,6 +26,11 @@ Go to **Preferences > Themes > Custom theme > Import** and paste a string.
 | Zelta Nord | Arctic blue, Zelta gold | `#2E3440,#3B4252,#F5C400,#2E3440,#3B4252,#D8DEE9,#F5C400,#F5C400` |
 | Zelta Groovy | 70s purple, gold and hot pink | `#2D1B69,#3D2580,#F5C400,#FFFFFF,#3D2580,#F7C59F,#F5C400,#FF1493` |
 | Zelta Cosmic | Deep space purple, Zelta gold | `#120E1E,#1E1535,#F5C400,#FFFFFF,#2A1F4A,#D4C8F0,#F5C400,#F5C400` |
+| Autumn Harvest | Calm desaturated dark bronze and wheat-gold | `#2B261F,#363027,#D1B280,#E3C89D,#423A30,#EFECE6,#D1B280,#E3C89D` |
+| Earth & Ore | Muted Sand Gold balanced by Calming Sage Green | `#1E221B,#292E24,#C5A059,#8FBC8F,#353C2F,#F4EAD4,#C5A059,#8FBC8F` |
+| The Linux Kernel | Slate grey-blue background with industrial gold and sharp red | `#1E222B,#282C34,#FFC107,#FF4A5A,#21252B,#ABB2BF,#FFC107,#FF4A5A` |
+| Gold Overlord | Aggressive: Solid gold sidebar, dark charcoal text, electric blue badge | `#FFCC00,#111111,#FFCC00,#E6B800,#111111,#000000,#00FFFF,#111111` |
+| Monochrome Ore | Clean Steel: Industrial dark grey with stark minimalist white badges | `#FFCC00,#24292E,#FFCC00,#D4A373,#24292E,#000000,#FFFFFF,#000000` |
 
 ---
 
